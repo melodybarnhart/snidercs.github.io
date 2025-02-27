@@ -10,7 +10,7 @@ params:
     enabled: true
     title: "The Gold Standard" # optional default will be site title
     subtitle: "Snider's FRC Team 9431"
-    imageUrl: "/images/snider-logo-00.png"
+    imageUrl: "/images/Robotics_Head_Logo.png"
     
     # imageTitle: "<title of image as alt>" # optional
     imageWidth: 256 # custom size
